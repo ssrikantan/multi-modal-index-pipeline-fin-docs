@@ -1,0 +1,14 @@
+PyMuPDF
+pdfplumber
+openai
+pandas
+tabulate
+azure-core
+langchain
+langchain-community
+langchainhub
+tiktoken
+azure-ai-documentintelligence
+azure-identity
+python-dotenv
+pillow
